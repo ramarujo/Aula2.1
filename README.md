@@ -1,5 +1,6 @@
 # Aula2.1
 
 Lilian Cabral
-Lazaro Ramos
+Jack Nicholson
 Steve Carell
+Jared Leto
